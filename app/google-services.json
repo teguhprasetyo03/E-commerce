@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460163692843",
+    "firebase_url": "https://ecommerce-2f97c.firebaseio.com",
+    "project_id": "ecommerce-2f97c",
+    "storage_bucket": "ecommerce-2f97c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460163692843:android:56db510f1774d89781ed6e",
+        "android_client_info": {
+          "package_name": "com.yudha.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460163692843-smfh27h1k23bil5n439dcs9v7v5hlfkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.ecommerce",
+            "certificate_hash": "15717acb9e17d9c33774dda27793232f7889fdf6"
+          }
+        },
+        {
+          "client_id": "460163692843-3qgbvc0hnkvrotcbhd6dglol6p1p3g2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXr-QwOn9vBMaphDaJOEf9nxHm2o2RUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460163692843-3qgbvc0hnkvrotcbhd6dglol6p1p3g2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
